@@ -1,0 +1,18 @@
+Prototype Sequence Modeling Toolkit (PSMT)
+-------------------------------------------
+
+By using this software you are agreeing to the GPL v2 license
+see, LICENSE file. Please send any questions to aria42@cs.berkeley.edu.
+
+Requirements: 
+	- Linux or Mac OS X
+	- Java 1.5 or later
+	- Ant  (don't forget to set the JAVA_HOME environmental variable)
+	- Ruby
+	- Matlab (optional)
+
+1. Compile source code into lib/proto.jar 
+
+	[psmt]$ ruby scripts/make.rb
+	
+2. Read the quick start guide in doc/quick_start.pdf

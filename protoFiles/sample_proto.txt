@@ -1,0 +1,45 @@
+JJ	new	other	last
+RB	not	n't	also
+-RRB-	-RRB-	-RCB-
+DT	The	a	the
+TO	to	na	To
+RP	Up	off
+RBR	faster	earlier	Earlier
+RBS	Worst
+JJS	least	biggest	largest
+LS	Third
+FW	Glasnost	kanji	perestroika
+JJR	more	higher	less
+NN	company	%	year
+NNPS	Brothers	Airlines	Americans
+VB	sell	make	be
+VBN	expected	based	been
+PDT	
+VBP	are	have	do
+``	non-``	`	``
+WP$	whose
+PRP	they	it	he
+MD	would	could	will
+SYM	b	c
+WDT	which	whatever	Whatever
+VBZ	is	says	has
+#	#
+WP	what	What	who
+IN	of	for	in
+$	C$	US$	$
+''	''
+POS	's	'	'S
+VBG	including	being	according
+EX	There	there
+VBD	said	had	was
+-LRB-	-LCB-	-LRB-
+.	!	?	.
+,	,
+PRP$	his	its	their
+UH	Well	uh	oh
+NNS	shares	companies	years
+CC	or	But	and
+CD	million	one	billion
+NNP	U.S.	Mr.	Corp.
+:	--	;	:
+WRB	how	when	where
